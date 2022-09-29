@@ -1,0 +1,62 @@
+body {
+    background-color: #d8d8d8!important;
+    padding-bottom: 40px;
+    overflow-y: hidden;
+}
+
+.card-login {
+  max-width: 25rem;
+}
+
+.profile-img {
+  width: 70px;
+}
+
+.profileimage-large {
+  width: 300px;
+}
+
+input[readonly] {
+    background-color:#DADADA;
+}
+
+.btn {
+  color: white!important;
+}
+
+#composecontainer {
+    background-color: #f6f6f6;
+    border: 1px solid gray;
+    border-bottom: none;
+    padding: 16px 20px 14px 20px;
+}
+
+#chatheader {
+    height: 60px;
+    color: white;
+    background-color: #007bff;
+}
+
+#chatcontainer {
+    font-size: 18px;
+    font-family: monospace, 'Courier New';
+    overflow: hidden;
+}
+
+.whitelink {
+    color: white;
+    text-decoration: underline;
+}
+
+.whitelink:visited {
+    color: white;
+    text-decoration: underline;
+}
+.whitelink:hover {
+    color: white;
+    text-decoration: underline;
+} 
+.whitelink:active {
+    color: white;
+    text-decoration: underline;
+}
